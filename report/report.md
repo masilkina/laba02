@@ -17,10 +17,10 @@ papersize: a4paper
 documentclass: scrreprt
 polyglossia-lang: russian
 polyglossia-otherlangs: english
-mainfont: PT Serif
-romanfont: PT Serif
-sansfont: PT Sans
-monofont: PT Mono
+mainfont: Arial
+romanfont: Arial
+sansfont: Arial
+monofont: Arial
 mainfontoptions: Ligatures=TeX
 romanfontoptions: Ligatures=TeX
 sansfontoptions: Ligatures=TeX,Scale=MatchLowercase
